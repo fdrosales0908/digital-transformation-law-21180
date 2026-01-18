@@ -1,0 +1,10 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: cosmo
+
+execute:
+  warning: false
+  message: false
