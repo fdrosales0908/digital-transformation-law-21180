@@ -4,8 +4,7 @@ This repository contains a Quarto report based on the **Digital Government Indic
 It describes gaps and progress in institutional capacities, IT staff, infrastructure, Law 21,180 implementation, and data governance.
 
 ## Live site
-https://fdrosales0908.github.io/gobierno-digital-ley-21180/
-
+https://fdrosales0908.github.io/digital-transformation-law-21180/informe_gobierno_digital.html
 ## Project structure
 - `informe_gobierno_digital.qmd`: main report
 - `scripts/`: data cleaning + indicators + plots
